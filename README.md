@@ -104,8 +104,8 @@ Sigue estos pasos para configurar el proyecto en un entorno de desarrollo local 
 1.  Inicia tu servidor web Apache y MySQL.
 2.  Abre tu navegador y ve a la URL donde alojaste el proyecto. Si no creaste una carpeta específica, será `http://localhost/login.php` o `http://localhost/cotizador/login.php`.
 3.  Utiliza las siguientes credenciales para iniciar sesión:
-    * **Usuario**: `MBSOLUCIONES`
-    * **Contraseña**: `Mbsoluciones2025`
+    * **Usuario**: `xxxxxxxxxxx`
+    * **Contraseña**: `xxxxxxxxxxx`
 
 ## ⚠️ Consideraciones de Seguridad
 
